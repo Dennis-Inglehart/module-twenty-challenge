@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dennis-Inglehart/module-twenty-challenge/static/css/main.939f1ef2.css",
+    "main.js": "/Dennis-Inglehart/module-twenty-challenge/static/js/main.2f143a9d.js",
+    "static/js/787.f0f2887e.chunk.js": "/Dennis-Inglehart/module-twenty-challenge/static/js/787.f0f2887e.chunk.js",
+    "static/media/diplodocus.png": "/Dennis-Inglehart/module-twenty-challenge/static/media/diplodocus.c04f04cbb1f24d088f6e.png",
+    "static/media/jumbo-screencap.png": "/Dennis-Inglehart/module-twenty-challenge/static/media/jumbo-screencap.c43862eb1c49ab36b58e.png",
+    "index.html": "/Dennis-Inglehart/module-twenty-challenge/index.html",
+    "main.939f1ef2.css.map": "/Dennis-Inglehart/module-twenty-challenge/static/css/main.939f1ef2.css.map",
+    "main.2f143a9d.js.map": "/Dennis-Inglehart/module-twenty-challenge/static/js/main.2f143a9d.js.map",
+    "787.f0f2887e.chunk.js.map": "/Dennis-Inglehart/module-twenty-challenge/static/js/787.f0f2887e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939f1ef2.css",
+    "static/js/main.2f143a9d.js"
+  ]
+}
