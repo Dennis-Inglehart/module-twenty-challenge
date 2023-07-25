@@ -1,0 +1,15 @@
+:root {
+    --distant-background: rgb(153, 156, 179);
+    --background: rgb(118, 110, 138);
+    --header-text: rgb(90, 2, 2);
+    --text: rgb(252, 243, 151);
+    --border: rgb(44, 5, 34);
+    --hover-shadow: rgb(83, 70, 11);
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: var(--distant-background);
+}
