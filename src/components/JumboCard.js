@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './JumboCard.module.css';
+import styles from '../styles/JumboCard.module.css';
 
 function JumboCard() {
   return (
