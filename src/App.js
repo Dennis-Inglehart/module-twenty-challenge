@@ -1,10 +1,8 @@
 import React from 'react';
 import './App.css';
-import Header from './components/Header';
-import JumboCard from './components/JumboCard';
-import SmallCards from './components/SmallCards';
-import Links from './components/Links';
-import Footer from './components/Footer';
+import Header from './src/components/Header';
+import JumboCard from './src/components/JumboCard';
+import SmallCards from './src/components/SmallCards';
 
 function App() {
   return (
@@ -12,8 +10,6 @@ function App() {
       <Header />
       <JumboCard />
       <SmallCards />
-      <Links />
-      <Footer />
     </div>
   );
 }
